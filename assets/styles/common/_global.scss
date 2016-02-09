@@ -1,1 +1,10 @@
+$color: blue;
+
+body {
+	background-color: pink;
+	
+	&:hover {
+		background-color: red;	
+	}
+}
 
